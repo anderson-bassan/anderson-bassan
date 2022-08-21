@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anderson-bassan
-- 👀 I’m interested in Coding, Learning, Working Out, Running and trying to keep a health diet
-- 🌱 I’m currently learning VisualBasic, Java and mastering JavaScript and Python
-- 💞️ I’m looking to collaborate on any project that seems interesting and is within my capabilities
-- 📫 How to reach me: good luck with that as I don't use any social media actively, but try to hit me on my e-mail bassan.code@gmail.com
+- 👀 I’m interested in coding, learning, running and eating health
+- 🌱 I’m currently learning Java by working in some projects
+- 💞️ I’m looking to collaborate on any project that seems interesting and is within my capabilities and to land a job as a Jr. Java Developer
+- 📫 How to reach me: send me a e-mail at nerowasnasty@gmail.com
 
 <!---
 anderson-bassan/anderson-bassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
